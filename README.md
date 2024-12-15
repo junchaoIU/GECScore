@@ -1,2 +1,4 @@
 # GECScore
-A simple but effective black-box zero-shot detection approach entails computing the Grammar Error Correction Score (GECScore) for the given text to distinguish between humanwritten and LLM-generated text.
+A simple yet effective black-box zero-shot detection approach based on the observation that, from the perspective of LLMs, human-written texts typically contain more grammatical errors than LLM-generated texts.
+
+**(Data and code are coming soon)**
