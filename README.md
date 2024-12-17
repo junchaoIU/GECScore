@@ -12,7 +12,7 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
 [![arXiv](https://img.shields.io/badge/Arxiv-2410.23746-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.23746)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench/blob/main/LICENSE)
 
-This repository is the official implementation of GECScore, a simple but effective black-box zero-shot detection approach, predicated on the observation that human-written texts typically contain more grammatical errors than LLM-generated texts.
+This repository is the official implementation of GECScore, a simple but effective black-box zero-shot detection approach, based on the observation that, from the perspective of LLMs, human-written texts typically contain more grammatical errors than LLM-generated texts.
 </div>
 
 ---
